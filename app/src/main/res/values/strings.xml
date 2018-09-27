@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity Life Cycle</string>
+    <string name="Header">Dessert Museum</string>
+    <string name="Body">Location:   Seaside Boulevard | S Maison, CoralWay, Conrad Hotel-Manila, Pasay, Philippines</string>
+    <string name="Body2">Distance From UST: 11.1 km</string>
+    <string name="Back">Back</string>
+    <string name="Next">Next</string>
+</resources>
